@@ -1,6 +1,7 @@
 return {
-  path     = 'Main.Section',
-  callback = function(state)
+	name 	 = 'Toggle',
+	path     = 'Main.Section',
+	callback = function(state)
 		print(state)
-  end
+	end
 }
