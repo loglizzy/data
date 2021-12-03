@@ -1,5 +1,6 @@
 return {
-	name 	 = 'Toggle',
+	name 	 = 'Enable it!',
+	class	 = 'Toggle',
 	path     = 'Main.Section',
 	callback = function(state)
 		print(state)
